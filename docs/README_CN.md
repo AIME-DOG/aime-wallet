@@ -1,5 +1,5 @@
 # AIME Wallet Service
-<img src=".assets/LOGO+AIME-light.png" alt="AIME" style="zoom: 50%;" align="center"/>
+<img src="/.assets/LOGO+AIME-light.png" alt="AIME" style="zoom: 50%;" align="center"/>
 
 
 
@@ -13,7 +13,7 @@ AIME 采用 MPC 钱包结构，让用户的资产为自己所拥有。
 
 
 
-Want to read this in english ? Go [here](/readme.md)
+Want to read this in english ? Go [here](/README.md)
 
 <p align="center">
   <a href="https://docs.aime.dog/">Docs</a> - <a href="https://aime.dog/">AIME</a> - <a href="https://aime.dog/invite">Invite</a> - <a href="https://aime.dog/channel">Channel</a>
@@ -191,6 +191,6 @@ npm start
 
 ## Link
 
-* <img src=".assets/LOGO.png" alt="aime" width="32px" /> - [AIME](https://aime.dog)
+* <img src="/.assets/LOGO.png" alt="aime" width="32px" /> - [AIME](https://aime.dog)
 * <img src="https://framerusercontent.com/images/oPqxoNxeHrQ9qgbjTUGuANdXdQ.png" alt="Privy" width="32px" /> - [Privy](https://www.privy.io/)
 * <img src="https://dev.jup.ag/img/jupiter-logo.svg" alt="JUP" width="32px" /> - [JUP](https://dev.jup.ag/docs/)
